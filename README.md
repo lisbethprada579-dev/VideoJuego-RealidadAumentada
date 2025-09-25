@@ -1,4 +1,6 @@
-VISTAS PREVIAS
+<h1>PARQUE DE DIVERSIONES 3D</h1>
+<p>Para el desarrollo de este proyecto de creación de parque de diversiones 3D se utilizaron herramientas como el motor de desarrollo Unity, el software de modelado 3D Blender, la aplicación web de animación Mixamo, y repositorios en línea para los terrenos y texturas utilizados para la ambientación y animación del parque de diversiones 3D. Adicionalmente se utilizó la metodología de desarrollo Scrum realizando reuniones con el fin de visualizar el progreso del proyecto.</p>
+<h1>VISTAS PREVIAS</h1>
 <h2>Carritos chocones</h2>
 <img width="1404" height="896" alt="image" src="https://github.com/user-attachments/assets/d70727af-1d64-4a7d-b308-ab137269f7f5" />
 
